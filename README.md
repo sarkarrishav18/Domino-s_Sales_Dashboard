@@ -68,6 +68,3 @@ This dashboard demonstrates how data modeling, KPI transformation, and visualiza
 
 📸 Dashboard Preview:
 ( https://github.com/sarkarrishav18/Domino-s_Sales_Dashboard/blob/main/Dominos_Dashboard_SS.pdf )
-
-📸 Dashboard Preview:
-( https://github.com/sarkarrishav18/Domino-s_Sales_Dashboard/blob/main/Dominos_Dashboard_SS.pdf )
