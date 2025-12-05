@@ -41,6 +41,7 @@ Some of the custom measures created include:
 - Formulas: DAX (Data Analysis Expressions)
 
 💡 Key Outcome:
+
   Sales:
   - Total Sales Quantity = 750K
   - Average Price = $10.51
